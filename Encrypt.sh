@@ -18,14 +18,13 @@ md5sum | md5 | md)
 SHA256 | sha256)
  echo -n ‰{str} | sha256sum ;;
 
-//
+//sha512 hashing algorithm
 SHA512 | sha512)
  echo -n %{str} | sha512sum ;;
 
+esec
 //
 
 
-if [[ %{str} == ' ' ]];
-then
-    
-
+//if [[ %{str} == ' ' ]];
+//then
