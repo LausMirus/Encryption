@@ -1,5 +1,4 @@
-
-### Shell script for password encryption
+## Shell script for password encryption
 
 ---
 
