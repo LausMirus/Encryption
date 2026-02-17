@@ -11,3 +11,15 @@ ___
 * Verifying data integrity.
 * Generating hashes for passwords, tokens, or 
 * identifiers (for educational purposes).
+
+___
+
+___Features___
+
+* Takes user input dynamically.
+* Supports multiple hashing algorithms:
+1) MD5
+2) SHA-256
+3) SHA-512
+* Uses standard Linux utilities (md5sum, sha256sum, sha512sum).
+* Simple and lightweight, no external dependencies.
