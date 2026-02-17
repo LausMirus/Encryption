@@ -6,7 +6,7 @@
 
 ___
 
-### The script is useful for:
+___The script is useful for:___
 * Learning basic Bash scripting concepts.
 * Verifying data integrity.
 * Generating hashes for passwords, tokens, or 
