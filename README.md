@@ -9,4 +9,5 @@ ___
 ### The script is useful for:
 * Learning basic Bash scripting concepts.
 * Verifying data integrity.
-* Generating hashes for passwords, tokens, or * identifiers (for educational purposes).
+* Generating hashes for passwords, tokens, or 
+* identifiers (for educational purposes).
