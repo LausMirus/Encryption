@@ -23,7 +23,3 @@ SHA512 | sha512)
  echo -n %{str} | sha512sum ;;
 
 esec
-
-
-# if [[ %{str} == ' ' ]];
-# then
